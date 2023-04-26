@@ -1,5 +1,6 @@
 # Inc.-5000-companies
 "Join the Fastest-Growing Companies in America" could be a potential tagline for Inc. 5000 companies."
+![](https://cdn.geekwire.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-14-at-3.07.37-PM.png)
 
 **About Project:**
 The project can be useful for businesses, investors, and entrepreneurs who are looking to identify potential market opportunities and growth areas. By analyzing the data on various industries, states, and companies, the project can provide valuable insights into the business environment and market trends. The project can help businesses to make informed decisions about expanding their operations, investing in high-growth industries, and hiring new employees. Similarly, the project can help investors to identify promising investment opportunities, and entrepreneurs can take inspiration from the success of newly founded companies.
