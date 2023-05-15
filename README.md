@@ -7,6 +7,7 @@ The project can be useful for businesses, investors, and entrepreneurs who are l
 
 [Notebook](https://github.com/khushiyadav2022/Inc.-5000-companies/blob/3dab71b3ef7b3b44a25b82d45cbdec6f79c986cb/inc-5000-companies-anlysis.ipynb)<br>
 [Presentation](https://github.com/khushiyadav2022/Inc.-5000-companies/blob/3dab71b3ef7b3b44a25b82d45cbdec6f79c986cb/Inc%205000%20companies%20analysis%20Presentation.pdf)
+[Dashboard](https://github.com/khushiyadav2022/Inc.-5000-companies/blob/fb31949c80c30af854ff0d786f9770f429a037ee/Inc%205000%20Company%20Analysis%20Dashboard.twbx)
 
 **Task:**
 1. What's the average revenue among companies on the list? Broken down by industry?
