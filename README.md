@@ -6,7 +6,7 @@
 The project can be useful for businesses, investors, and entrepreneurs who are looking to identify potential market opportunities and growth areas. By analyzing the data on various industries, states, and companies, the project can provide valuable insights into the business environment and market trends. The project can help businesses to make informed decisions about expanding their operations, investing in high-growth industries, and hiring new employees. Similarly, the project can help investors to identify promising investment opportunities, and entrepreneurs can take inspiration from the success of newly founded companies.
 
 [Notebook](https://github.com/khushiyadav2022/Inc.-5000-companies/blob/3dab71b3ef7b3b44a25b82d45cbdec6f79c986cb/inc-5000-companies-anlysis.ipynb)<br>
-[Presentation](https://github.com/khushiyadav2022/Inc.-5000-companies/blob/3dab71b3ef7b3b44a25b82d45cbdec6f79c986cb/Inc%205000%20companies%20analysis%20Presentation.pdf)
+[Presentation](https://github.com/khushiyadav2022/Inc.-5000-companies/blob/3dab71b3ef7b3b44a25b82d45cbdec6f79c986cb/Inc%205000%20companies%20analysis%20Presentation.pdf)<br>
 [Dashboard](https://github.com/khushiyadav2022/Inc.-5000-companies/blob/fb31949c80c30af854ff0d786f9770f429a037ee/Inc%205000%20Company%20Analysis%20Dashboard.twbx)
 
 **Task:**
