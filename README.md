@@ -1,5 +1,6 @@
 # Inc.-5000-companies
 "Join the Fastest-Growing Companies in America" could be a potential tagline for Inc. 5000 companies."
+
 ![](https://cdn.geekwire.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-14-at-3.07.37-PM.png)
 
 **About Project:**
